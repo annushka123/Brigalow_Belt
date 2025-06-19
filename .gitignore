@@ -1,0 +1,26 @@
+# Ableton Live Files
+*/Recordings/
+*/Samples/
+*/Backups/
+*/Analysis/
+
+# Ableton temporary/cache files
+*.asd
+*.als.autosave
+.DS_Store
+
+# Max/MSP/Jitter Files
+*/max-temp/
+*/.DS_Store
+
+# General exclusions
+Thumbs.db
+.localized
+
+# Ignore system generated files
+.DS_Store
+
+# Shared audio folder
+/Brigalow_Belt_Audio/
+
+
