@@ -23,6 +23,8 @@ Thumbs.db
 # Shared audio folder
 /Brigalow_Belt_Audio/
 
+# Ignore all movie files
+*.mov
+*.mp4
 
-main_project Project/brig_movie_draft.mov
-main_project Project/Hero Brigalow Belt V4_15_July_Extended frame 32.mov
+
